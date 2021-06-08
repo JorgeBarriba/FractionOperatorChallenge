@@ -37,6 +37,7 @@ Test
 
 
 Maintain
+
     - Upon submission, the changes, fixes and updates will remain in a Gitlab/Github shared repository.
     - Upgrades for the story will allow the users to:
         - A) Execute the scenarios for each operation separately.
