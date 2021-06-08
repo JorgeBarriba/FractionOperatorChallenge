@@ -47,6 +47,6 @@ Maintain
 
 
 Notes for files:
-FractionOperator.java triggers the input request and main class
-Fraction.java has the operations
-OperatorTest.java has examples (not working) of the possible tests. 
+- FractionOperator.java triggers the input request and main class
+- Fraction.java has the operations
+- OperatorTest.java has examples (not working) of the possible tests. 
