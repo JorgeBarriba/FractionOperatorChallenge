@@ -43,3 +43,10 @@ Maintain
     - B) Once the results are displayed request for a new input will be displayed until the user decide to quit
             the operations program.
     - C) Decimal results will also be displayed when the solution is provided.
+
+
+
+Notes for files:
+FractionOperator.java triggers the input request and main class
+Fraction.java has the operations
+OperatorTest.java has examples (not working) of the possible tests. 
