@@ -37,10 +37,9 @@ Test
 
 
 Maintain
-
-    - Upon submission, the changes, fixes and updates will remain in a Gitlab/Github shared repository.
-    - Upgrades for the story will allow the users to:
-        - A) Execute the scenarios for each operation separately.
-        - B) Once the results are displayed request for a new input will be displayed until the user decide to quit
+- Upon submission, the changes, fixes and updates will remain in a Gitlab/Github shared repository.
+- Upgrades for the story will allow the users to:
+    - A) Execute the scenarios for each operation separately.
+    - B) Once the results are displayed request for a new input will be displayed until the user decide to quit
             the operations program.
-        - C) Decimal results will also be displayed when the solution is provided.
+    - C) Decimal results will also be displayed when the solution is provided.
