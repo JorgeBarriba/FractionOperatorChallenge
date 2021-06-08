@@ -19,7 +19,7 @@ public class OperatorTest extends Fraction{
     public String HarcodeResultsMultiply = "1/4";
     public String HarcodeResultsDivide = "2";
     public Fraction Operator = new Fraction();
-    //public Fraction Input = new Fraction();
+    public Fraction Input = new Fraction();
     public Fraction Results = new Fraction();
 
     //Setup for testing
