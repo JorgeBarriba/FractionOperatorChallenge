@@ -26,20 +26,20 @@ Test
     - Multiply
     - Divide
 - Each scenario will consider the following test cases:
-    1 - Test Operation (*, /, +, -)  with fractions numbers and same denominator.
-    2 - Test Operation (*, /, +, -)  with fractions numbers and different denominator.
-    3 - Test Operation (*, /, +, -)  including whole numbers and same denominator.
-    4 - Test Operation (*, /, +, -)  including whole numbers and different denominator.
-    5 - Test Operation (*, /, +, -)  with improper fractions.
-    6 - Negative Test Operation (*, /, +, -)  with denominator as 0.
-    7 - Negative Test Operation (*, /, +, -)  with illegal characters (letters, special characters).
-    8 - Negative Test Operation (*, /, +, -)  with fractions numbers no spaces.
+    - 1 - Test Operation (*, /, +, -)  with fractions numbers and same denominator.
+    - 2 - Test Operation (*, /, +, -)  with fractions numbers and different denominator.
+    - 3 - Test Operation (*, /, +, -)  including whole numbers and same denominator.
+    - 4 - Test Operation (*, /, +, -)  including whole numbers and different denominator.
+    - 5 - Test Operation (*, /, +, -)  with improper fractions.
+    - 6 - Negative Test Operation (*, /, +, -)  with denominator as 0.
+    - 7 - Negative Test Operation (*, /, +, -)  with illegal characters (letters, special characters).
+    - 8 - Negative Test Operation (*, /, +, -)  with fractions numbers no spaces.
 
 
 Maintain
-    - Upon submission, the changes, fixes and updates will remain in a Gitlab/Github shared repository.
-    - Upgrades for the story will allow the users to:
-        A) Execute the scenarios for each operation separately.
-        B) Once the results are displayed request for a new input will be displayed until the user decide to quit
+- Upon submission, the changes, fixes and updates will remain in a Gitlab/Github shared repository.
+- Upgrades for the story will allow the users to:
+    - A) Execute the scenarios for each operation separately.
+    - B) Once the results are displayed request for a new input will be displayed until the user decide to quit
             the operations program.
-        C) Decimal results will also be displayed when the solution is provided.
+    - C) Decimal results will also be displayed when the solution is provided.
