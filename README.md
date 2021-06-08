@@ -26,8 +26,8 @@ Test
     - Multiply
     - Divide
 - Each scenario will consider the following test cases:
-    1 - Test Operation (*, /, +, -)  with fractions numbers and same denominator.
-    2 - Test Operation (*, /, +, -)  with fractions numbers and different denominator.
+    - 1 - Test Operation (*, /, +, -)  with fractions numbers and same denominator.
+    - 2 - Test Operation (*, /, +, -)  with fractions numbers and different denominator.
     3 - Test Operation (*, /, +, -)  including whole numbers and same denominator.
     4 - Test Operation (*, /, +, -)  including whole numbers and different denominator.
     5 - Test Operation (*, /, +, -)  with improper fractions.
