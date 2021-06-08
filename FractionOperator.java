@@ -1,9 +1,9 @@
 import java.util.Scanner;
 import java.util.logging.Logger;
 
-public class FactionOperator extends Fraction {
+public class FractionOperator extends Fraction {
 
-    private final static Logger LOG = Logger.getLogger(FactionOperator.class.getName());
+    private final static Logger LOG = Logger.getLogger(FractionOperator.class.getName());
 
     public static String calc(String args) {
 
@@ -41,7 +41,7 @@ public class FactionOperator extends Fraction {
         System.out.println("Inputs: ");
         String input = scanner.next();
 
-        String result = FactionOperator.calc(input);
+        String result = FractionOperator.calc(input);
 
         System.out.println(String.format(" = %s", result));
     }
